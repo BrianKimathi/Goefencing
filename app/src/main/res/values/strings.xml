@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">A-TRACK</string>
+    <string name="sign_up_text">Don\'t have an account? <u><b><i>Sign Up</i></b></u> </string>
+    <string name="sign_in_text">Already have an account? <u><b><i>Sign In</i></b></u> </string>
+    <string name="or">OR</string>
+    <string name="login">LOGIN</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="pick_image">PICK IMAGE</string>
+    <string name="register">REGISTER</string>
+    <string name="home">HOME</string>
+    <string name="assets">ASSETS</string>
+    <string name="alerts">ALERTS</string>
+    <string name="profile">PROFILE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Home Fragment</string>
+    <string name="username">username</string>
+    <string name="registered_assets">REGISTERED ASSETS</string>
+    <string name="online_assets">Online Assets</string>
+    <string name="update_profile">UPDATE PROFILE</string>
+</resources>
